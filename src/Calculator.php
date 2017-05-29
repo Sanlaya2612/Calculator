@@ -1,6 +1,6 @@
 <?php
 
-namespace sanlaya2612\\calculator;
+namespace sanlaya2612\Calculator;
 
 
 class Calculator

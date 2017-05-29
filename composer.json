@@ -6,5 +6,10 @@
             "email": "11654sanlaya@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sanlaya2612\\Calculator\\": "src/"
+        }
+    }
 }
